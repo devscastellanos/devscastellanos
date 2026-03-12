@@ -41,18 +41,30 @@ Socials
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="mailto:scastellanos1220@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" alt="Gmail" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="32" height="32" alt="Gmail" />
   </a>
 </p>
 
 Badges
 My GitHub Stats
-<a href="http://www.github.com/devscastellanos">
-  <img src="https://github-readme-stats.vercel.app/api?username=devscastellanos&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="devscastellanos's GitHub stats" />
-</a>
-<a href="http://www.github.com/devscastellanos">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devscastellanos&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-<a href="https://github.com/devscastellanos">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devscastellanos&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
+<table>
+  <tr>
+    <td valign="top">
+      <a href="http://www.github.com/devscastellanos">
+        <img src="https://github-readme-stats.vercel.app/api?username=devscastellanos&show_icons=true&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/devscastellanos">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devscastellanos&langs_count=8&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="http://www.github.com/devscastellanos">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=devscastellanos&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
