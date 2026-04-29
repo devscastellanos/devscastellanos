@@ -4,11 +4,11 @@
 
 I'm a final-semester Systems Engineering student at the Francisco José de Caldas District University in Bogotá. I'm passionate about frontend development, software architecture, and building systems that are well-structured, clean, and maintainable. Outside of code, I enjoy customizing my Linux environment and digging into graph algorithms for my thesis on urban mobility in Bogotá.
 
-* 🌍 Based in Bogotá, Colombia
-* 🎓 Systems Engineering @ Universidad Distrital Francisco José de Caldas
-* 🚀 Aiming for a Frontend Software Engineer role
-* 🧠 Currently learning TypeScript, Next.js, Spring Boot & Jest
-* ⚡ My thesis uses Dijkstra, BFS/DFS and PageRank on real city transit networks
+* Based in Bogotá, Colombia
+* Systems Engineering @ Universidad Distrital Francisco José de Caldas
+* Aiming for a Frontend Software Engineer role
+* Currently learning TypeScript, Next.js, Spring Boot & Jest
+* My thesis uses Dijkstra, BFS/DFS and PageRank on real city transit networks
 
 ---
 
